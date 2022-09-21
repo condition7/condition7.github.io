@@ -11,7 +11,7 @@ body h1 {
     text-shadow: 7px 7px 15px black, -7px 7px 15px black; 
     font-size: 80px;
     padding: 3%; 
-    padding-top: 95px;
+    padding-top: 115px;
 }
 body h2 {
     color: rgb(19, 157, 185);
@@ -40,7 +40,7 @@ body h3 {
     color:rgb(190, 236, 232);
     font-size: 50px;
     text-shadow: 4px 0 10px black;
-    font-family: cursive;
+    font-family: 'Charmonman', cursive;
 }
 
 /* NAVBAR */
