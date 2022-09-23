@@ -8,7 +8,7 @@ body {
 body h1 {
     background-color: rgb(9, 71, 158);
     color: rgb(170, 214, 218);
-    text-shadow: 7px 7px 15px black, -7px 7px 15px black; 
+    text-shadow: 2px 2px 5px black, -2px 2px 5px black; 
     font-size: 80px;
     padding: 3%; 
     padding-top: 115px;
@@ -132,8 +132,11 @@ body.graphics div.wutang {
 
 /* Engineering */
 
-body.engineering div.albumbox {
+body.engineering .bloom.albumbox {
     background-color: rgb(0, 18, 24);
+}
+body.engineering div.wutang.albumbox {
+    background-color: rgb(7, 27, 55);
 }
 body.engineering #robot div.albumbox {
     display: inline-block !important;
